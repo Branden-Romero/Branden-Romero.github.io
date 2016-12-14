@@ -1,0 +1,7 @@
+---
+layout: null
+title: May 2015 - September 2015
+subtitle: Teaching Assistant for Introduction in Engineering Computing
+image: "img/timeline/rastrigin.png"
+---
+Introduced the use of computers in engineering problem solving, including elementary numerical methods.

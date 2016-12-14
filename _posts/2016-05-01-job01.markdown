@@ -1,0 +1,7 @@
+---
+layout: null
+title: May 2016 - September 2016
+subtitle: University of Colorado Department of Information Sciences
+image: "img/timeline/regularizer.png"
+---
+Created regularizers and penalties for linear classifiers and deep learning models to generate more coherent topic descriptors.
